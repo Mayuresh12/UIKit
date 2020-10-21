@@ -61,7 +61,7 @@ class ViewController: UIViewController {
             label.widthAnchor.constraint(equalTo: view.widthAnchor).isActive = true
             label.heightAnchor.constraint(equalToConstant: 88).isActive = true
         }        
-//        view.addConstraints( NSLayoutConstraint.constraints(withVisualFormat: "V:|[label1(labelHeight)]-[label2(labelHeight)]-[label3(labelHeight)]-[label4(labelHeight)]-[label5(labelHeight)]->=10-|", options: [], metrics: metrics, views: viewsDictionary))
+
     }
     
     
