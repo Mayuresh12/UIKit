@@ -1,4 +1,4 @@
-////
+//
 //  AppDelegate.swift
 //  Guess the Flag
 //
