@@ -1,3 +1,2 @@
 # UIKit
-Contains series of project exploring UIkit Framework,
-Z
+Contains series of project exploring UIkit Framework.
